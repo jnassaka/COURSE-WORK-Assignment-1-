@@ -1,0 +1,27 @@
+.list{
+    
+    display: flex;
+flex-direction: row;
+justify-content:space-around;
+list-style-type: none;
+}
+li{
+    border: 3px solid cadetblue;
+   list-style: none;
+}
+body{
+    background-image:url("guitar9.jpg");
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+a{
+    text-decoration: none;
+}
+.page{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+a{
+    color: green;
+}

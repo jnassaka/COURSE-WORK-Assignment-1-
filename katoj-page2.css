@@ -1,0 +1,57 @@
+.main-div{    
+display: flex;
+flex-direction: row;
+border: 5px solid coral;
+
+}
+
+.div1{
+    display: flex;
+    
+    background-color:darkorange;
+    flex-direction: column;
+    justify-content:space-around;
+}
+.div2{
+
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    background-color: chartreuse;
+}
+.hbby{
+    justify-content: center;
+    color:darkred;
+}
+
+.page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+.a1{
+    margin-left: -1300px;
+}
+.a2{
+    margin-right: -400px;
+}
+#ge{
+    color: darkred;
+}
+#two{
+    color: dodgerblue;
+}
+.h2{
+    font-style: oblique;
+    font-family:monospace;
+    font-weight:bolder;
+    font-size: 300%;
+}
